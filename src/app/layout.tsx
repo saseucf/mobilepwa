@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-    title: "Next.js Mobile PWA",
-    description: "A simple Next.js PWA boilerplate",
+    title: "SASE Mobile PWA",
+    description: "Society of Asian Scientists and Engineers Mobile App",
     manifest: "/manifest.webmanifest",
 };
 

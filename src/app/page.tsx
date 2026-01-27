@@ -5,9 +5,9 @@ export default function Home() {
     return (
         <div className="p-8 pb-24">
             <header className="mb-8">
-                <h1 className="text-3xl font-bold tracking-tight mb-2">Next.js Mobile PWA</h1>
+                <h1 className="text-3xl font-bold tracking-tight mb-2">SASE Mobile PWA</h1>
                 <p className="text-muted-foreground">
-                    A clean boilerplate featuring Next.js, Supabase, and shadcn/ui.
+                    Official mobile application for the Society of Asian Scientists and Engineers.
                 </p>
             </header>
 

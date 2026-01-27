@@ -2,9 +2,9 @@ import type { MetadataRoute } from 'next'
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'Next.js Mobile PWA',
-    short_name: 'NextPWA',
-    description: 'A simple Next.js PWA boilerplate with Supabase and TailwindCSS',
+    name: 'SASE Mobile PWA',
+    short_name: 'SASE PWA',
+    description: 'Society of Asian Scientists and Engineers Mobile App',
     start_url: '/',
     display: 'standalone',
     background_color: '#ffffff',
