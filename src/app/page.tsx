@@ -19,7 +19,7 @@ export default function Home() {
                     </CardHeader>
                     <CardContent className="space-y-2">
                         <p className="text-sm font-mono bg-muted p-3 rounded-md break-all">
-                            1. Add credentials to .env.local<br />
+                            1. Add credentials to .env<br />
                             2. Run npm run dev<br />
                             3. Test PWA locally
                         </p>
