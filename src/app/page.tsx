@@ -5,7 +5,7 @@ export default function Home() {
     return (
         <div className="p-8 pb-24">
             <header className="mb-8">
-                <h1 className="text-3xl font-bold tracking-tight mb-2">SASE Mobile PWA</h1>
+                <h1 className="text-3xl font-bold tracking-tight mb-2">Mobile PWA</h1>
                 <p className="text-muted-foreground">
                     Official mobile application for the Society of Asian Scientists and Engineers.
                 </p>
