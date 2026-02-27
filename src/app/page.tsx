@@ -5,7 +5,7 @@ export default function Home() {
     return (
         <div className="p-8 pb-24">
             <header className="mb-8">
-                <h1 className="text-3xl font-bold tracking-tight mb-2">SASE Mobile PWA</h1>
+                <h1 className="text-3xl font-bold tracking-tight mb-2">Mobile PWA</h1>
                 <p className="text-muted-foreground">
                     Official mobile application for the Society of Asian Scientists and Engineers.
                 </p>
@@ -19,7 +19,7 @@ export default function Home() {
                     </CardHeader>
                     <CardContent className="space-y-2">
                         <p className="text-sm font-mono bg-muted p-3 rounded-md break-all">
-                            1. Add credentials to .env.local<br />
+                            1. Add credentials to .env<br />
                             2. Run npm run dev<br />
                             3. Test PWA locally
                         </p>
